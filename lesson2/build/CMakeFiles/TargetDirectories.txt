@@ -1,0 +1,3 @@
+/home/itkunstler/OTUS-Projects-Cpp/OTUS-Basic-Course-Cpp/lesson2/build/CMakeFiles/hello_world.dir
+/home/itkunstler/OTUS-Projects-Cpp/OTUS-Basic-Course-Cpp/lesson2/build/CMakeFiles/edit_cache.dir
+/home/itkunstler/OTUS-Projects-Cpp/OTUS-Basic-Course-Cpp/lesson2/build/CMakeFiles/rebuild_cache.dir
