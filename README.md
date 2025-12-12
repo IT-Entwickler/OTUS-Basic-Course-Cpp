@@ -1,1 +1,1 @@
-# OTUS-Basic-Course-Cpp
+# OTUS is a base in Programming
