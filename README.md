@@ -1,1 +1,1 @@
-# OTUS-Basic-Course-Cpp
+# C++ is the foundation of Programming
