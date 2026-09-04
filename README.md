@@ -1,1 +1,1 @@
-# C++ is the foundation of Programming
+# C++ is the foundation of all Programming languages
