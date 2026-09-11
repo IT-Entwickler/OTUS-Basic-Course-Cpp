@@ -3,12 +3,14 @@ build/
 */build/
 cmake-build-*/
 
+
 # ===== Артефакты компиляции =====
 *.o
 *.obj
 *.a
 *.so
 *.dylib
+
 *.exe
 
 *.out
@@ -29,7 +31,8 @@ Makefile
 *.swo
 *~
 
-# ===== ОС =====
+
+
 .DS_Store 
 
 Thumbs.db
