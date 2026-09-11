@@ -1,0 +1,35 @@
+# ===== Папки сборки CMake =====
+build/
+*/build/
+cmake-build-*/
+
+# ===== Артефакты компиляции =====
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+*.out
+*.bin
+
+# ===== Файлы, генерируемые CMake =====
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# ===== IDE и редакторы =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== ОС =====
+.DS_Store 
+
+Thumbs.db
